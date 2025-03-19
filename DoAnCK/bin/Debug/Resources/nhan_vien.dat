@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNhanVien xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NhanVien>
+    <id_nv>NV01</id_nv>
+    <ten_nv>Nguyễn Phan Tuấn Đức</ten_nv>
+    <tuoi>19</tuoi>
+    <gioi_tinh>true</gioi_tinh>
+    <dia_chi_nv>Quảng Ngãi</dia_chi_nv>
+    <username>user1</username>
+    <password>pass1</password>
+  </NhanVien>
+  <NhanVien>
+    <id_nv>NV02</id_nv>
+    <ten_nv>Huỳnh Kim Nguyên</ten_nv>
+    <tuoi>20</tuoi>
+    <gioi_tinh>false</gioi_tinh>
+    <dia_chi_nv>TP.HCM</dia_chi_nv>
+    <username>user2</username>
+    <password>pass2</password>
+  </NhanVien>
+  <NhanVien>
+    <id_nv>NV03</id_nv>
+    <ten_nv>Nguyễn Hoàng Bảo</ten_nv>
+    <tuoi>24</tuoi>
+    <gioi_tinh>true</gioi_tinh>
+    <dia_chi_nv>Quảng Ngãi</dia_chi_nv>
+    <username>user3</username>
+    <password>pass3</password>
+  </NhanVien>
+  <NhanVien>
+    <id_nv>NV04</id_nv>
+    <ten_nv>Võ Đức Hưng</ten_nv>
+    <tuoi>35</tuoi>
+    <gioi_tinh>true</gioi_tinh>
+    <dia_chi_nv>Quảng Bình</dia_chi_nv>
+    <username>user4</username>
+    <password>pass4</password>
+  </NhanVien>
+</ArrayOfNhanVien>

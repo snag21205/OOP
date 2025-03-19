@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfHangHoa xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <HangHoa xsi:type="DienTu">
+    <id>DT01</id>
+    <ten_hang>Bếp từ</ten_hang>
+    <so_luong>32</so_luong>
+    <don_gia>1000000</don_gia>
+    <img>.\Resources\hang hoa img\dien tu\Bếp từ.jpg</img>
+  </HangHoa>
+  <HangHoa xsi:type="DienTu">
+    <id>DT02</id>
+    <ten_hang>Lò vi sóng</ten_hang>
+    <so_luong>17</so_luong>
+    <don_gia>2000000</don_gia>
+    <img>.\Resources\hang hoa img\dien tu\Lò vi sóng.jpg</img>
+  </HangHoa>
+  <HangHoa xsi:type="DienTu">
+    <id>DT03</id>
+    <ten_hang>Máy giặt</ten_hang>
+    <so_luong>13</so_luong>
+    <don_gia>3000000</don_gia>
+    <img>.\Resources\hang hoa img\dien tu\Máy giặt.jpg</img>
+  </HangHoa>
+  <HangHoa xsi:type="DienTu">
+    <id>DT04</id>
+    <ten_hang>Máy in</ten_hang>
+    <so_luong>15</so_luong>
+    <don_gia>2500000</don_gia>
+    <img>.\Resources\hang hoa img\dien tu\Máy in.jpg</img>
+  </HangHoa>
+  <HangHoa xsi:type="DienTu">
+    <id>DT05</id>
+    <ten_hang>Nồi cơm điện</ten_hang>
+    <so_luong>10</so_luong>
+    <don_gia>1500000</don_gia>
+    <img>.\Resources\hang hoa img\dien tu\nồi cơm điện.jpg</img>
+  </HangHoa>
+  <HangHoa xsi:type="DienTu">
+    <id>DT06</id>
+    <ten_hang>Máy quạt</ten_hang>
+    <so_luong>9</so_luong>
+    <don_gia>500000</don_gia>
+    <img>.\Resources\hang hoa img\dien tu\Quạt.jpg</img>
+  </HangHoa>
+  <HangHoa xsi:type="DienTu">
+    <id>DT07</id>
+    <ten_hang>Tivi</ten_hang>
+    <so_luong>5</so_luong>
+    <don_gia>6000000</don_gia>
+    <img>.\Resources\hang hoa img\dien tu\Tivi.jpg</img>
+  </HangHoa>
+  <HangHoa xsi:type="DienTu">
+    <id>DT08</id>
+    <ten_hang>Tủ lạnh</ten_hang>
+    <so_luong>7</so_luong>
+    <don_gia>5000000</don_gia>
+    <img>.\Resources\hang hoa img\dien tu\Tủ lạnh.jpg</img>
+  </HangHoa>
+  <HangHoa xsi:type="GiaDung">
+    <id>GD01</id>
+    <ten_hang>Bàn</ten_hang>
+    <so_luong>13</so_luong>
+    <don_gia>700000</don_gia>
+    <img>.\Resources\hang hoa img\gia dung\Bàn.png</img>
+  </HangHoa>
+  <HangHoa xsi:type="GiaDung">
+    <id>GD02</id>
+    <ten_hang>Bộ lau nhà</ten_hang>
+    <so_luong>21</so_luong>
+    <don_gia>200000</don_gia>
+    <img>.\Resources\hang hoa img\gia dung\Bộ-lau-nhà.png</img>
+  </HangHoa>
+  <HangHoa xsi:type="GiaDung">
+    <id>GD03</id>
+    <ten_hang>Chén</ten_hang>
+    <so_luong>31</so_luong>
+    <don_gia>30000</don_gia>
+    <img>.\Resources\hang hoa img\gia dung\chén.jpg</img>
+  </HangHoa>
+  <HangHoa xsi:type="GiaDung">
+    <id>GD04</id>
+    <ten_hang>Dao</ten_hang>
+    <so_luong>7</so_luong>
+    <don_gia>50000</don_gia>
+    <img>.\Resources\hang hoa img\gia dung\Dao.jpg</img>
+  </HangHoa>
+  <HangHoa xsi:type="GiaDung">
+    <id>GD05</id>
+    <ten_hang>Dĩa</ten_hang>
+    <so_luong>31</so_luong>
+    <don_gia>40000</don_gia>
+    <img>.\Resources\hang hoa img\gia dung\dĩa.jpg</img>
+  </HangHoa>
+  <HangHoa xsi:type="GiaDung">
+    <id>GD06</id>
+    <ten_hang>Ghế</ten_hang>
+    <so_luong>6</so_luong>
+    <don_gia>100000</don_gia>
+    <img>.\Resources\hang hoa img\gia dung\Ghế.png</img>
+  </HangHoa>
+  <HangHoa xsi:type="GiaDung">
+    <id>GD07</id>
+    <ten_hang>Kéo</ten_hang>
+    <so_luong>11</so_luong>
+    <don_gia>30000</don_gia>
+    <img>.\Resources\hang hoa img\gia dung\kéo.png</img>
+  </HangHoa>
+  <HangHoa xsi:type="GiaDung">
+    <id>GD08</id>
+    <ten_hang>Xoong nồi</ten_hang>
+    <so_luong>6</so_luong>
+    <don_gia>300000</don_gia>
+    <img>.\Resources\hang hoa img\gia dung\nồi son.jpg</img>
+  </HangHoa>
+  <HangHoa xsi:type="ThucPham">
+    <id>TP01</id>
+    <ten_hang>Cá</ten_hang>
+    <so_luong>11</so_luong>
+    <don_gia>20000</don_gia>
+    <img>.\Resources\hang hoa img\thuc pham\cá.jpg</img>
+  </HangHoa>
+  <HangHoa xsi:type="ThucPham">
+    <id>TP02</id>
+    <ten_hang>Dầu ăn</ten_hang>
+    <so_luong>11</so_luong>
+    <don_gia>80000</don_gia>
+    <img>.\Resources\hang hoa img\thuc pham\dầu ăn.jpg</img>
+  </HangHoa>
+  <HangHoa xsi:type="ThucPham">
+    <id>TP03</id>
+    <ten_hang>Gà</ten_hang>
+    <so_luong>11</so_luong>
+    <don_gia>150000</don_gia>
+    <img>.\Resources\hang hoa img\thuc pham\gà.jpg</img>
+  </HangHoa>
+  <HangHoa xsi:type="ThucPham">
+    <id>TP04</id>
+    <ten_hang>Nước mắm</ten_hang>
+    <so_luong>11</so_luong>
+    <don_gia>120000</don_gia>
+    <img>.\Resources\hang hoa img\thuc pham\nước mắm.jpg</img>
+  </HangHoa>
+  <HangHoa xsi:type="ThucPham">
+    <id>TP05</id>
+    <ten_hang>Nước tương</ten_hang>
+    <so_luong>16</so_luong>
+    <don_gia>60000</don_gia>
+    <img>.\Resources\hang hoa img\thuc pham\nước tương.jpg</img>
+  </HangHoa>
+  <HangHoa xsi:type="ThucPham">
+    <id>TP06</id>
+    <ten_hang>Sữa tươi</ten_hang>
+    <so_luong>15</so_luong>
+    <don_gia>15000</don_gia>
+    <img>.\Resources\hang hoa img\thuc pham\sữa tươi.jpg</img>
+  </HangHoa>
+  <HangHoa xsi:type="ThucPham">
+    <id>TP07</id>
+    <ten_hang>Thịt heo</ten_hang>
+    <so_luong>2</so_luong>
+    <don_gia>130000</don_gia>
+    <img>.\Resources\hang hoa img\thuc pham\thịt heo.jpg</img>
+  </HangHoa>
+  <HangHoa xsi:type="ThucPham">
+    <id>TP08</id>
+    <ten_hang>Trứng gà</ten_hang>
+    <so_luong>17</so_luong>
+    <don_gia>30000</don_gia>
+    <img>.\Resources\hang hoa img\thuc pham\trứng gà.jpg</img>
+  </HangHoa>
+  <HangHoa xsi:type="ThucPham">
+    <id>TP09</id>
+    <ten_hang>Tương ớt</ten_hang>
+    <so_luong>16</so_luong>
+    <don_gia>50000</don_gia>
+    <img>.\Resources\hang hoa img\thuc pham\tương ớt.jpg</img>
+  </HangHoa>
+</ArrayOfHangHoa>

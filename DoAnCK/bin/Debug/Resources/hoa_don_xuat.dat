@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfHoaDonXuat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <HoaDonXuat>
+    <id_hoa_don>HDX1</id_hoa_don>
+    <ngay_tao_don>2024-11-08T12:41:47.1181875+07:00</ngay_tao_don>
+    <qlnx>
+      <ds_hang_hoa>
+        <HangHoa xsi:type="DienTu">
+          <id>DT01</id>
+          <ten_hang>Bếp từ</ten_hang>
+          <so_luong>1</so_luong>
+          <don_gia>1000000</don_gia>
+          <img>.\Resources\hang hoa img\dien tu\Bếp từ.jpg</img>
+        </HangHoa>
+        <HangHoa xsi:type="DienTu">
+          <id>DT03</id>
+          <ten_hang>Máy giặt</ten_hang>
+          <so_luong>1</so_luong>
+          <don_gia>3000000</don_gia>
+          <img>.\Resources\hang hoa img\dien tu\Máy giặt.jpg</img>
+        </HangHoa>
+        <HangHoa xsi:type="DienTu">
+          <id>DT02</id>
+          <ten_hang>Lò vi sóng</ten_hang>
+          <so_luong>1</so_luong>
+          <don_gia>2000000</don_gia>
+          <img>.\Resources\hang hoa img\dien tu\Lò vi sóng.jpg</img>
+        </HangHoa>
+        <HangHoa xsi:type="DienTu">
+          <id>DT05</id>
+          <ten_hang>Nồi cơm điện</ten_hang>
+          <so_luong>1</so_luong>
+          <don_gia>1500000</don_gia>
+          <img>.\Resources\hang hoa img\dien tu\nồi cơm điện.jpg</img>
+        </HangHoa>
+        <HangHoa xsi:type="DienTu">
+          <id>DT04</id>
+          <ten_hang>Máy in</ten_hang>
+          <so_luong>1</so_luong>
+          <don_gia>2500000</don_gia>
+          <img>.\Resources\hang hoa img\dien tu\Máy in.jpg</img>
+        </HangHoa>
+        <HangHoa xsi:type="DienTu">
+          <id>DT06</id>
+          <ten_hang>Máy quạt</ten_hang>
+          <so_luong>1</so_luong>
+          <don_gia>500000</don_gia>
+          <img>.\Resources\hang hoa img\dien tu\Quạt.jpg</img>
+        </HangHoa>
+      </ds_hang_hoa>
+    </qlnx>
+    <nv_lap>
+      <id_nv>NV01</id_nv>
+      <ten_nv>Nguyễn Phan Tuấn Đức</ten_nv>
+      <tuoi>19</tuoi>
+      <gioi_tinh>true</gioi_tinh>
+      <dia_chi_nv>Quảng Ngãi</dia_chi_nv>
+      <username>user1</username>
+      <password>pass1</password>
+    </nv_lap>
+    <tong_tien>10500000</tong_tien>
+    <cua_hang>
+      <id_ch>CH03</id_ch>
+      <ten_ch>Cửa hàng 03</ten_ch>
+      <sdt_ch>0867243244</sdt_ch>
+      <dia_chi_ch>Quận 10</dia_chi_ch>
+    </cua_hang>
+  </HoaDonXuat>
+  <HoaDonXuat>
+    <id_hoa_don>HDX2</id_hoa_don>
+    <ngay_tao_don>2025-03-03T19:23:52.9453142+07:00</ngay_tao_don>
+    <qlnx>
+      <ds_hang_hoa>
+        <HangHoa xsi:type="DienTu">
+          <id>DT02</id>
+          <ten_hang>Lò vi sóng</ten_hang>
+          <so_luong>2</so_luong>
+          <don_gia>2000000</don_gia>
+          <img>.\Resources\hang hoa img\dien tu\Lò vi sóng.jpg</img>
+        </HangHoa>
+      </ds_hang_hoa>
+    </qlnx>
+    <nv_lap>
+      <id_nv>NV02</id_nv>
+      <ten_nv>Huỳnh Kim Nguyên</ten_nv>
+      <tuoi>20</tuoi>
+      <gioi_tinh>false</gioi_tinh>
+      <dia_chi_nv>TP.HCM</dia_chi_nv>
+      <username>user2</username>
+      <password>pass2</password>
+    </nv_lap>
+    <tong_tien>4000000</tong_tien>
+    <cua_hang>
+      <id_ch>CH02</id_ch>
+      <ten_ch>Cửa hàng 02</ten_ch>
+      <sdt_ch>0123586755</sdt_ch>
+      <dia_chi_ch>Bình Chánh</dia_chi_ch>
+    </cua_hang>
+  </HoaDonXuat>
+  <HoaDonXuat>
+    <id_hoa_don>HDX3</id_hoa_don>
+    <ngay_tao_don>2025-03-03T19:24:18.8394998+07:00</ngay_tao_don>
+    <qlnx>
+      <ds_hang_hoa>
+        <HangHoa xsi:type="DienTu">
+          <id>DT02</id>
+          <ten_hang>Lò vi sóng</ten_hang>
+          <so_luong>2</so_luong>
+          <don_gia>2000000</don_gia>
+          <img>.\Resources\hang hoa img\dien tu\Lò vi sóng.jpg</img>
+        </HangHoa>
+        <HangHoa xsi:type="ThucPham">
+          <id>TP07</id>
+          <ten_hang>Thịt heo</ten_hang>
+          <so_luong>16</so_luong>
+          <don_gia>130000</don_gia>
+          <img>.\Resources\hang hoa img\thuc pham\thịt heo.jpg</img>
+        </HangHoa>
+      </ds_hang_hoa>
+    </qlnx>
+    <nv_lap>
+      <id_nv>NV02</id_nv>
+      <ten_nv>Huỳnh Kim Nguyên</ten_nv>
+      <tuoi>20</tuoi>
+      <gioi_tinh>false</gioi_tinh>
+      <dia_chi_nv>TP.HCM</dia_chi_nv>
+      <username>user2</username>
+      <password>pass2</password>
+    </nv_lap>
+    <tong_tien>6080000</tong_tien>
+    <cua_hang>
+      <id_ch>CH02</id_ch>
+      <ten_ch>Cửa hàng 02</ten_ch>
+      <sdt_ch>0123586755</sdt_ch>
+      <dia_chi_ch>Bình Chánh</dia_chi_ch>
+    </cua_hang>
+  </HoaDonXuat>
+</ArrayOfHoaDonXuat>

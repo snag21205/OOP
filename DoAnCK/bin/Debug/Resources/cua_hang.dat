@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCuaHang xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CuaHang>
+    <id_ch>12312</id_ch>
+    <ten_ch>123123</ten_ch>
+    <sdt_ch>123123</sdt_ch>
+    <dia_chi_ch>23123</dia_chi_ch>
+  </CuaHang>
+</ArrayOfCuaHang>
