@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Runtime.Serialization;
-
+//testing pull request
 [Serializable]
 public class CuaHang : ISerializable
 {
